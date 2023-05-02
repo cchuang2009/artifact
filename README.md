@@ -12,6 +12,7 @@
    - [plotly viz](https://cchuang2009-streamlit-plotly-streamlit-bakeh-1-47jvo0.streamlit.app/)
 7. [Index querying for TaiInd Market](https://cchuang2009-streamlit-scrapper-query-tai-ind-query-jxprre.streamlit.app/)  
 8. [SQL, Job Posting Investingation](https://cchuang2009-streamlit-sql-app-68vvn2.streamlit.app/)
+9. [CO2 Emissions, Pycaret Regression Model](https://huggingface.co/spaces/cchuang2009/CO2)
 
 Author: diffusion, cchuang2009@gmail
 
