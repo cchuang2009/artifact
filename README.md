@@ -2,7 +2,8 @@
 1. Techniques News
    - [News Forum, Huggingface](https://huggingface.co/spaces/cchuang2009/News-Forum)
    - [News Forum, Streamlit](https://cchuang2009-streamlit-news-forum-app-9ayjmo.streamlit.app/)
-   - [News Forum, AWS-S3](https://huggingface.co/spaces/cchuang2009/NewsForumAWS)
+   - [News Forum, AWS-S3](https://huggingface.co/spaces/cchuang2009/NewsForumAWS) suspended for security
+   - [News Forum, streamlt use github and data from S3](https://cchuang2009-2023-score-app-aws-s3-sql-1esrmv.streamlit.app/)
 2. [Supervized ML, Gender Guessing ](https://cchuang2009-streamlit-classification-app-v2-3eleye.streamlit.app/)
 3. [Score Querying](https://cchuang2009-2023-score-app-yz22hl.streamlit.app/)
 4. [Saling Price of Laptop](https://cchuang2009-streamlit-deploy-app-vbjjjs.streamlit.app/)
