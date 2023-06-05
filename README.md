@@ -14,6 +14,7 @@
 7. [Index querying for TaiInd Market](https://cchuang2009-streamlit-scrapper-query-tai-ind-query-jxprre.streamlit.app/)  
 8. [SQL, Job Posting Investingation](https://cchuang2009-streamlit-sql-app-68vvn2.streamlit.app/)
 9. [CO2 Emissions, Pycaret Regression Model](https://huggingface.co/spaces/cchuang2009/CO2)
+10. [CGU,CGEE 2023-1 lectures Info](https://cchuang2009-streamlit-cgee-app-jrho5f.streamlit.app/)
 
 Author: diffusion, cchuang2009@gmail
 
