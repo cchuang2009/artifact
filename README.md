@@ -19,5 +19,8 @@
 12. Financial Data Apps,
     - [Stock MACD Model, with Matplotlib](https://cchuang2009-streamlit-stock-app-macd-yzxkdw.streamlit.app/)
     - [Stock MACD App, with Pyecharts backend and without talib](https://cchuang2009-streamlit-stock-app-macd-yzxkdw.streamlit.app/)
+
+
+
 Author: diffusion, cchuang2009@gmail
 
