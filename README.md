@@ -19,7 +19,7 @@
 12. Financial Data Apps,
     - [Stock MACD Model, with Matplotlib](https://cchuang2009-streamlit-stock-app-macd-yzxkdw.streamlit.app/)
     - [Stock MACD App, with Pyecharts backend and without talib](https://cchuang2009-streamlit-stock-app-macd-yzxkdw.streamlit.app/)
-13 [Forecast Models for Financial Market](https://cchuang2009-streamlit-stock-predictions-app-macd-d2yivz.streamlit.app/), Basic TI's and forcast by Facebook's Prophet, Lightgbm ( fine-tuned by Pycaret-3.x) 
+13. [Forecast Models for Financial Market](https://cchuang2009-streamlit-stock-predictions-app-macd-d2yivz.streamlit.app/), Basic TI's and forcast by Facebook's Prophet, Lightgbm ( fine-tuned by Pycaret-3.x) 
 
 
 Author: diffusion, cchuang2009@gmail
